@@ -1,6 +1,3 @@
-//bell is Bell switch
-//flot is float switch
-
 int bell, flot, flag;
 int buzz = 7;
 
